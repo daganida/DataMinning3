@@ -1,0 +1,19 @@
+c:\users\ido\documents\visual studio 2013\Projects\ID3Classifier\ID3Classifier\bin\Debug\ID3Classifier.exe.config
+\\Mac\Home\Desktop\DataMining3\ID3Classifier\ID3Classifier\bin\Debug\ID3Classifier.exe.config
+\\Mac\Home\Desktop\DataMining3\ID3Classifier\ID3Classifier\bin\Debug\ID3Classifier.exe
+\\Mac\Home\Desktop\DataMining3\ID3Classifier\ID3Classifier\bin\Debug\ID3Classifier.pdb
+\\Mac\Home\Desktop\DataMining3\ID3Classifier\ID3Classifier\obj\Debug\MainWindow.baml
+\\Mac\Home\Desktop\DataMining3\ID3Classifier\ID3Classifier\obj\Debug\TreeVis.baml
+\\Mac\Home\Desktop\DataMining3\ID3Classifier\ID3Classifier\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Desktop\DataMining3\ID3Classifier\ID3Classifier\obj\Debug\TreeVis.g.cs
+\\Mac\Home\Desktop\DataMining3\ID3Classifier\ID3Classifier\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\DataMining3\ID3Classifier\ID3Classifier\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\Mac\Home\Desktop\DataMining3\ID3Classifier\ID3Classifier\obj\Debug\ID3Classifier_MarkupCompile.cache
+\\Mac\Home\Desktop\DataMining3\ID3Classifier\ID3Classifier\obj\Debug\ID3Classifier_MarkupCompile.lref
+\\Mac\Home\Desktop\DataMining3\ID3Classifier\ID3Classifier\obj\Debug\GraphStyle.baml
+\\Mac\Home\Desktop\DataMining3\ID3Classifier\ID3Classifier\obj\Debug\ID3Classifier.g.resources
+\\Mac\Home\Desktop\DataMining3\ID3Classifier\ID3Classifier\obj\Debug\ID3Classifier.Properties.Resources.resources
+\\Mac\Home\Desktop\DataMining3\ID3Classifier\ID3Classifier\obj\Debug\ID3Classifier.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\DataMining3\ID3Classifier\ID3Classifier\obj\Debug\ID3Classifier.exe
+\\Mac\Home\Desktop\DataMining3\ID3Classifier\ID3Classifier\obj\Debug\ID3Classifier.pdb
+\\Mac\Home\Desktop\DataMining3\ID3Classifier\ID3Classifier\obj\Debug\ID3Classifier.csprojResolveAssemblyReference.cache
